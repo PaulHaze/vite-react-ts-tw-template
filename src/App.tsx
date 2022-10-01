@@ -1,10 +1,7 @@
-import { Test } from '@/components';
-
 function App() {
   return (
-    <div>
+    <div className="flex-center">
       <h1>Vite Bare Bones Starter</h1>
-      <Test />
     </div>
   );
 }
