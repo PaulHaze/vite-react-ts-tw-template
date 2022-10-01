@@ -4014,9 +4014,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"vite-react-ts-template@workspace:.":
+"vite-react-ts-tw-template@workspace:.":
   version: 0.0.0-use.local
-  resolution: "vite-react-ts-template@workspace:."
+  resolution: "vite-react-ts-tw-template@workspace:."
   dependencies:
     "@types/react": ^18.0.17
     "@types/react-dom": ^18.0.6
